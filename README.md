@@ -4,6 +4,3 @@ I'm a full stack developer specializing in Microsoft Azure and centralized Ident
 - 🛠️ I've been experimenting with building my own middleware over here 👉 [MiddlewareMadness](https://github.com/StuFrankish/MiddlewareMadness).
 - 🛠️ Currently building up my own Identity Server & Client project for experiments and testing 👉 [AspireForIdentityServer](https://github.com/StuFrankish/AspireForIdentityServer) .
 - 🔩 Owner/Maintainer of the [HealthChecks](https://github.com/StuFrankish/HealthChecks) Nuget Package
-
-### A few Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stufrankish&show_icons=true&locale=en" /></p>
