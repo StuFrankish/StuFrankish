@@ -1,6 +1,2 @@
 ## Hi there 👋
 I'm a full stack developer specializing in Microsoft Azure and centralized Identity & Access Management solutions.
-- 🔭 I’m currently working on building & enhancing access solutions based on Identity Server by [@DuendeSoftware](https://github.com/DuendeSoftware).
-- 🛠️ I've been experimenting with building my own middleware over here 👉 [MiddlewareMadness](https://github.com/StuFrankish/MiddlewareMadness).
-- 🛠️ Currently building up my own Identity Server & Client project for experiments and testing 👉 [AspireForIdentityServer](https://github.com/StuFrankish/AspireForIdentityServer) .
-- 🔩 Owner/Maintainer of the [HealthChecks](https://github.com/StuFrankish/HealthChecks) Nuget Package
